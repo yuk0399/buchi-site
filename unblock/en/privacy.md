@@ -10,7 +10,7 @@ lang: en
 Effective date: November 24, 2026<br>
 Last updated: November 24, 2026
 
-This page explains what data the iOS app "Buchi Slips Out" handles. The app is provided by Yutaka Kawakami, an independent developer based in New Zealand.
+This page explains what data the iOS app "Buchi Slips Out" handles. The app is provided by Yutaka Kawakami, an independent developer.
 
 ## Accounts and data stored on your device
 
