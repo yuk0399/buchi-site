@@ -96,7 +96,11 @@ When you tap share, the app only opens the iOS share sheet. Nothing is sent to t
 
 ## Children
 
-This app is not directed at children under 13.
+This app is made for adults. It is not directed at children under 13.
+
+We do not knowingly collect information from children under 13.
+
+If you are a parent or guardian and you find that your child's information has been sent, please contact us at [buchi.support@gmail.com](mailto:buchi.support@gmail.com).
 
 ## Deleting data and questions
 
@@ -106,7 +110,7 @@ If you want your data deleted or have any questions, please contact us at the em
 
 ## Provider and contact
 
-- Provider: Yutaka Kawakami (independent developer based in New Zealand)
+- Provider: Yutaka Kawakami
 - Email: [buchi.support@gmail.com](mailto:buchi.support@gmail.com)
 
 ## Changes to this policy
