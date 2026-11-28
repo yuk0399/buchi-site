@@ -8,7 +8,7 @@ Yutaka Kawakami が作っているアプリです。
 
 Apps made by Yutaka Kawakami.
 
-## ブチねこ、ぬけだす / Buchi Slips Out
+## ブチ、ぬけだす / Buchi Slips Out
 
 猫を部屋から出す、スライドブロックのパズルゲームです。iOS 向けです。
 

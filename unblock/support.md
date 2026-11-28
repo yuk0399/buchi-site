@@ -7,7 +7,7 @@ lang: ja
 
 [English]({{ '/unblock/en/support/' | relative_url }})
 
-iOS アプリ「ブチねこ、ぬけだす」のサポートのページです。
+iOS アプリ「ブチ、ぬけだす」のサポートのページです。
 
 ## 問い合わせ
 
